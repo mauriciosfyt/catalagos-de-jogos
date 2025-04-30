@@ -1,0 +1,51 @@
+/* src/styles.css */
+/* src/styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Special+Gothic+Expanded+One&display=swap');
+
+body {
+  font-family: 'Merriweather', serif; /* Fonte para o corpo do texto */
+  /* Outros estilos do body... */
+}
+
+h1, h2 {
+  font-family: 'Special Gothic Expanded One', sans-serif; /* Fonte para títulos */
+  /* Outros estilos de títulos... */
+}
+
+label, input, button, p, table, th, td {
+  font-family: 'Merriweather', serif; /* Fonte para outros elementos de texto */
+  /* Outros estilos desses elementos... */
+}
+
+/* Você pode ajustar ainda mais se precisar de fontes diferentes para elementos específicos */
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #303030;
+    color: white;
+  }
+  
+  h1, h2 {
+    color: white; /* Cor primária do Bootstrap */
+  }
+  
+  .btn-primary {
+    background-color: rgb(0, 255, 0); /* Cor de sucesso do Bootstrap */
+    border-color: rgb(1, 255, 1);
+  }
+  
+  .btn-primary:hover {
+    background-color: #00ff3c;
+    border-color: #00ff3c;
+  }
+  
+  .table thead th {
+    background-color: #00152b;
+    color: white;
+  }
+  
+  .table tbody tr:nth-child(even) {
+    background-color: #e9ecef;
+  }
