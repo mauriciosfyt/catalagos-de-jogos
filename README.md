@@ -26,8 +26,6 @@ Siga os passos abaixo para rodar o projeto localmente:
    git clone https://github.com/mauriciosfyt/catalagos-de-jogos.git
 cd catalagos-de-jogos
 📂 Estrutura do Projeto
-markdown
-Copiar código
 catalagos-de-jogos/
 ├── index.html
 ├── styles/
@@ -36,6 +34,7 @@ catalagos-de-jogos/
 │   └── app.js
 └── assets/
     └── imagens/
+
 
 🤝 Contribuindo
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
